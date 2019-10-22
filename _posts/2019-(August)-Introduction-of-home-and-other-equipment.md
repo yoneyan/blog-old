@@ -13,7 +13,7 @@ date: 2019-09-13 02:17:49 +0900
 
 ### IP電話
 
-![](/images/server/home/2019/09/ipphone.jpg)
+![](images/server/home/2019/09/ipphone.jpg)
 
 Cisco IP Phone 3兄弟
 
