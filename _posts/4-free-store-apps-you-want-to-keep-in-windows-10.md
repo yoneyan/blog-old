@@ -16,7 +16,7 @@ Windows8から新たに今までのソフトとは別のModern UIアプリとい
 1.テレbing
 --------
 
-![](/images/2017/01/windowsstore-テレbing.png)
+![](images/2017/01/windowsstore-テレbing.png)
 
 このアプリはテレビの番組表が見れます。
 
@@ -46,7 +46,7 @@ Windows8から新たに今までのソフトとは別のModern UIアプリとい
 2.ACGプレイヤー
 ----------
 
-![](/images/2017/01/windowsstore-ACGPlayer.png)
+![](images/2017/01/windowsstore-ACGPlayer.png)
 
 形式はどれほど対応しているかわかりませんが（説明文に一切説明がない）、windowsストアアプリのメディアプレイヤーの中では一番使いやすく軽いです。
 
@@ -61,7 +61,7 @@ ACGプレイヤーの軽量版としてAx-Lite プレイヤーもあります。
 3.LINE
 ------
 
-![](/images/2017/01/windowsstore-LINE.png)
+![](images/2017/01/windowsstore-LINE.png)
 
 ストアアプリ版とデスクトップ版の違いはUIがタブレットに向いていることです。
 
@@ -76,7 +76,7 @@ ACGプレイヤーの軽量版としてAx-Lite プレイヤーもあります。
 4.Dropbox
 ---------
 
-![](/images/2017/01/windowsstore-dropbox.png)
+![](images/2017/01/windowsstore-dropbox.png)
 
 フォルダを同期まではしないけど、保存したものを見たい！！という方にお勧めです。
 

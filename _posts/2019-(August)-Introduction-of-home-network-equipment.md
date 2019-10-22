@@ -22,11 +22,11 @@ date: 2019-09-13 01:44:15
 
 ここでは親が活動しているので、静かな機器を使用しています。
 
-![](/images/server/home/2019/09/home-router.jpg)
+![](images/server/home/2019/09/home-router.jpg)
 
 ルータ部分
 
-![](/images/server/home/2019/09/homeAP.jpg)
+![](images/server/home/2019/09/homeAP.jpg)
 
 AP部分
 
@@ -42,7 +42,7 @@ AP部分
 
 鯖部屋になってしまいましたが、一応倉庫部屋です。
 
-![](/images/server/home/2019/09/serverroom.jpg)
+![](images/server/home/2019/09/serverroom.jpg)
 
 オレンジがスイッチ間、白がサーバー間、緑がマネージメント用に一応、別れています。
 
@@ -65,13 +65,13 @@ AP部分
 
 裏側はこのような感じです。
 
-![](/images/server/home/2019/09/serverroom-back.jpeg)
+![](images/server/home/2019/09/serverroom-back.jpeg)
 
 裏側
 
 #### 鯖部屋　クライアント周辺
 
-![](/images/server/home/2019/08/serverroomhub2.jpg)
+![](images/server/home/2019/08/serverroomhub2.jpg)
 
 *   GS724T（クライアント部分のメインスイッチ）
 *   Ciscoの100Mスイッチ（型番忘れた）
@@ -106,11 +106,11 @@ BS-POE-G2108
 
 **FCスイッチを買いすぎると**
 
-![](/images/server/home/2019/09/FCSwitch.jpeg)
+![](images/server/home/2019/09/FCSwitch.jpeg)
 
 FCスイッチ達
 
-![](/images/server/home/2019/09/SFP.jpg)
+![](images/server/home/2019/09/SFP.jpg)
 
 SFPピラミッド
 
@@ -123,7 +123,7 @@ https://www.youtube.com/watch?v=WTcxTfCOyrw
 2F　自室
 -----
 
-![](/images/server/home/2019/09/mainroom.jpeg)
+![](images/server/home/2019/09/mainroom.jpeg)
 
 メインスイッチ+POE給電スイッチ
 

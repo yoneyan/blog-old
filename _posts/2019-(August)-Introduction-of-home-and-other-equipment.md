@@ -13,7 +13,7 @@ date: 2019-09-13 02:17:49 +0900
 
 ### IP電話
 
-![](/images/server/home/2019/09/ipphone.jpg)
+![](images/server/home/2019/09/ipphone.jpg)
 
 Cisco IP Phone 3兄弟
 
@@ -25,7 +25,7 @@ Cisco IP Phone 3兄弟
 
 ### UPS
 
-![](/images/server/home/2019/09/UPS.jpg)
+![](images/server/home/2019/09/UPS.jpg)
 
 UPS3台（部屋移動前）
 
@@ -56,7 +56,7 @@ Mini-SASケーブルがないので、バックアップできない状態です
 
 スマートスピーカはどこの家にもあると思いますが、紹介します。
 
-![](/images/server/home/2019/09/smartspeaker.jpeg)
+![](images/server/home/2019/09/smartspeaker.jpeg)
 
 *   Google Home Mini x2
 *   Google Home （親分サイズ）

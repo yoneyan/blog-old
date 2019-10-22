@@ -16,7 +16,7 @@ date: 2017-01-09 17:28:02
 1.8-zip
 -------
 
-![](/images/2017/01/windowsstore-8-zip.png)
+![](images/2017/01/windowsstore-8-zip.png)
 
 値段:2000円（セール時は100円）
 
@@ -37,7 +37,7 @@ date: 2017-01-09 17:28:02
 2.sMedio TV Suite
 -----------------
 
-![](/images/2017/01/windowsstore-smediotv.png)
+![](images/2017/01/windowsstore-smediotv.png)
 
 値段:1400円
 
@@ -58,7 +58,7 @@ date: 2017-01-09 17:28:02
 3.FL Studio Mobile
 ------------------
 
-![](/images/2017/01/windowsstore-flstudiomobile.png)
+![](images/2017/01/windowsstore-flstudiomobile.png)
 
 値段:1500円
 

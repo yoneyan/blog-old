@@ -9,7 +9,7 @@ date: 2017-02-03 03:05:13 +0900
 1.TeamViewer
 ============
 
-![](/images/2017/02/teamviewer.png)
+![](images/2017/02/teamviewer.png)
 
 公式サイト:[https://www.teamviewer.com/ja/download/windows/](https://www.teamviewer.com/ja/download/windows/) 窓の杜ダウンロードリンク:[http://forest.watch.impress.co.jp/library/software/teamviewer/](http://forest.watch.impress.co.jp/library/software/teamviewer/)
 
@@ -30,7 +30,7 @@ date: 2017-02-03 03:05:13 +0900
 2.AnyDesk
 =========
 
-![](/images/2017/02/anydesk.png)
+![](images/2017/02/anydesk.png)
 
 公式サイト:[https://anydesk.com/remote-desktop](https://anydesk.com/remote-desktop) 窓の杜ダウンロードリンク:[http://forest.watch.impress.co.jp/library/software/anydesk/](http://forest.watch.impress.co.jp/library/software/anydesk/)
 
@@ -49,7 +49,7 @@ androidやiosでは今のところアプリはありませんが、作る計画�
 3.Mirror-DTC
 ============
 
-![](/images/2017/02/mirror-dtc.png)
+![](images/2017/02/mirror-dtc.png)
 
 公式サイト:[http://t-ishii.la.coocan.jp/hp/mc/](http://t-ishii.la.coocan.jp/hp/mc/) 窓の杜ダウンロードリンク:[http://forest.watch.impress.co.jp/library/software/mirrordtc/](http://forest.watch.impress.co.jp/library/software/mirrordtc/)
 

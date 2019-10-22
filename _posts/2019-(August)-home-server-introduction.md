@@ -15,7 +15,7 @@ date: 2019-09-13 00:49:00
 
 また、サーバーやネットワークに属さない機器は[こちら](https://yoneyannet.com/2019年度8月自宅その他機器の紹介/)で紹介しています。
 
-![](/images/server/home/2019/09/homeserver.jpeg)
+![](images/server/home/2019/09/homeserver.jpeg)
 
 #### 運用中
 
@@ -162,7 +162,7 @@ DL360 G7は活用するために机として機能しており、StorageWorksは
 
 #### サーバーパーツ達
 
-![](/images/server/home/2019/09/serverpowersupply.jpeg)
+![](images/server/home/2019/09/serverpowersupply.jpeg)
 
 電源
 

@@ -14,7 +14,7 @@ date: 2018-03-22 17:22:35
 SimCity™ 4 Deluxe Edition
 -------------------------
 
-![](/images/2018/03/simcity-deluxe-edition.png)
+![](images/2018/03/simcity-deluxe-edition.png)
 
 通常価格:1980円 対応OS:windowsXP（windows10動作可能） 最低スペック
 
@@ -28,7 +28,7 @@ Steam:http://store.steampowered.com/app/24780/SimCity\_4\_Deluxe_Edition/ 町建
 Cities: Skylines
 ----------------
 
-![](/images/2018/03/citiesskyline.png) 通常価格:2980円 （Deluxe Editionは3980円） 対応OS:windowsXP～windows8.1（windows10でも動作確認） 最低スペック
+![](images/2018/03/citiesskyline.png) 通常価格:2980円 （Deluxe Editionは3980円） 対応OS:windowsXP～windows8.1（windows10でも動作確認） 最低スペック
 
 *   CPU Intel Core 2 Duo 3.0GHz 又は AMD Athlon 64 X2 6400+ 3.2GHz以降
 *   Memory 4G
@@ -40,7 +40,7 @@ Steam:http://store.steampowered.com/app/255710/Cities_Skylines/ steamの中の�
 Tropico5
 --------
 
-![](/images/2018/03/tropico5.png) 通常価格:2050円 OS:windowsvista~windows8（windows10でも動作可能） 最低スペック
+![](images/2018/03/tropico5.png) 通常価格:2050円 OS:windowsvista~windows8（windows10でも動作可能） 最低スペック
 
 *   CPU  2 GHz Dual Core CPU 以降
 *   Memory 4GB以上

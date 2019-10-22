@@ -19,7 +19,7 @@ date: 2017-01-30 02:14:02
 Prison Architect
 ----------------
 
-![](/images/game/soft/steam/prison-architect.png)
+![](images/game/soft/steam/prison-architect.png)
 
 リンク：[http://store.steampowered.com/app/233450/](http://store.steampowered.com/app/233450/)
 
@@ -48,7 +48,7 @@ Prison Architect
 Factorio
 --------
 
-![](/images/game/soft/steam/factrio.png)
+![](images/game/soft/steam/factrio.png)
 
 リンク：[http://store.steampowered.com/app/427520/](http://store.steampowered.com/app/427520/)
 
@@ -71,7 +71,7 @@ Factorio
 RimWorld
 --------
 
-![](/images/game/soft/steam/rimworld.png)
+![](images/game/soft/steam/rimworld.png)
 
 リンク：[http://store.steampowered.com/app/294100/](http://store.steampowered.com/app/294100/)
 
@@ -94,7 +94,7 @@ RimWorld
 Cities: Skylines
 ----------------
 
-![](/images/game/soft/steam/cities-skyline.png)
+![](images/game/soft/steam/cities-skyline.png)
 
 リンク：[http://store.steampowered.com/app/255710/](http://store.steampowered.com/app/255710/)
 
@@ -119,7 +119,7 @@ SimCityに飽きた方にもおすすめのゲームなのでやってみては�
 Microsoft Flight Simulator X:Steam Edition
 ------------------------------------------
 
-![](/images/game/soft/steam/MSX.png)
+![](images/game/soft/steam/MSX.png)
 
 リンク：[http://store.steampowered.com/app/314160/](http://store.steampowered.com/app/314160/)
 
@@ -137,7 +137,7 @@ Microsoft Flight Simulator X:Steam Edition
 
 飛行機シミュレーションゲームの定番ソフトです。
 
-![](/images/game/hard/sidewinder/sidewinder-precision-pro.jpg)
+![](images/game/hard/sidewinder/sidewinder-precision-pro.jpg)
 
 このようなコントローラがないと不便ですが、めちゃくちゃおもしろいですよ。本当に。
 
@@ -146,7 +146,7 @@ Microsoft Flight Simulator X:Steam Edition
 Tropico 5
 ---------
 
-![](/images/game/soft/steam/tropico5.png)
+![](images/game/soft/steam/tropico5.png)
 
 リンク：[http://store.steampowered.com/app/245620/](http://store.steampowered.com/app/245620/)
 
