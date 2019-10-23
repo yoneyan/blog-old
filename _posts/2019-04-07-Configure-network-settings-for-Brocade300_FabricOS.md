@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Brocade 300(FabricOS)のネットワーク設定をする
-categories: FC network
+categories: network
 date: 2019-04-07 23:53:10 +0900
-tags:
+tags: FiberChannel
 ---
 
 FC-SANを使うためにBrocade 300を導入したのはいいのですが、なかなか普通のL2やL3スイッチのようには設定が行かないので、備忘録もかねて記事化していきます。

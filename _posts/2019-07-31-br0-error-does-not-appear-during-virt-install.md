@@ -2,7 +2,7 @@
 layout: post
 title: virt-install時にbr0のエラーが出て進まない
 tags: kvm
-categories: CentOS Linux
+categories: server
 date: 2019-07-31 21:58:46 +0900
 ---
 

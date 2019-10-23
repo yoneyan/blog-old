@@ -1,7 +1,7 @@
 ---
 layout: post
 title: x230で本当のデュアルブートをしてみる
-categories: neta
+categories: recommend
 date: 2019-06-16 17:07:07 +0900
 tags: thinkpad
 ---

@@ -2,7 +2,7 @@
 layout: post
 title: PS4を買う前にまずPS3を買え！！！
 tags: ps4
-categories: Recommend
+categories: recommend
 date: 2018-02-05 13:24:35 +0900
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title: FreeBSDでポート開放をする
 tags: freebsd
-categories: network os
+categories: network
 date: 2019-07-22 11:16:02 +0900
 ---
 

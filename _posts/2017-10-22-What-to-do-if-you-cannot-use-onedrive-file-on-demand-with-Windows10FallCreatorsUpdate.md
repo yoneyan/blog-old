@@ -2,7 +2,7 @@
 layout: post
 title: Windows10 Fall Creators Updateでonedriveのファイルオンデマンドが使えない場合の対処法
 tags:
-categories: OS
+categories: memo
 date: 2017-10-22 04:25:45 +0900
 ---
 

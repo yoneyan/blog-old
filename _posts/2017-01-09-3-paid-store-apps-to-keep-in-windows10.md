@@ -2,7 +2,7 @@
 layout: post
 title: Windows10に入れておきたい有料ストアアプリ3選
 tags: 
-categories: recommend storeapp
+categories: recommend software
 date: 2017-01-09 17:28:02 +0900
 ---
 

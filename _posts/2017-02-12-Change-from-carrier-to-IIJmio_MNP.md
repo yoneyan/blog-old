@@ -2,7 +2,7 @@
 layout: post
 title: キャリアから格安スマホ(IIJmio)に乗り換え（MNP編）
 tags:
-categories: おすすめ
+categories: recommend
 date: 2017-02-12 18:58:28 +0900
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title: nmcliで無線がunmanagedの場合の対処法
 tags: CentOS7
-categories: Server Network
+categories: server network
 date: 2019-08-11 23:29:40 +0900
 ---
 

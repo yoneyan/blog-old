@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Linuxのディスク容量拡張の方法
-categories: Linux build
+categories: server build
 date: 2019-06-03 13:59:36 +0900
 tags: disk
 ---

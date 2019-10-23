@@ -2,7 +2,7 @@
 layout: post
 title: "PCリモートにおすすめのフリーソフト3選"
 date: 2017-02-03 03:05:13 +0900
-categories: freeware
+categories: software
 ---
 どうしてもPCを遠隔地や離れた部屋から操作したい時があります。そのときにリモートでPCを操作できるフリーソフトを集めてみました。
 

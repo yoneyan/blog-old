@@ -2,7 +2,7 @@
 layout: post
 title: CentOSで無線から有線に変換する(1)
 tags:
-categories: CentOS network
+categories: server network
 date: 2018-11-20 14:06:55 +0900
 ---
 

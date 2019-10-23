@@ -2,7 +2,7 @@
 layout: post
 title: CentOS7でLACPとタグVLANを使ってみる
 tags: CentOS
-categories: network Server build setting
+categories: network server build setting
 date: 2019-03-31 20:02:44 +0900
 ---
 
