@@ -30,3 +30,14 @@ gem "wdm", "~> 0.1.1", :install_if => Gem.win_platform?
 
 #GithubPages
 #gem 'github-pages', group: :jekyll_plugins
+
+#Search Engine
+
+group :jekyll_plugins do
+  gem "jekyll-sitemap"
+  gem "jekyll-algolia"
+  gem 'jekyll-gist'
+  gem "gemoji"
+#  gem "jekyll-assets"
+#  gem "another-jekyll-plugin"
+end

@@ -63,6 +63,29 @@ plugins:
   - jekyll-feed
 #  - jekyll-paginate
   - jekyll-seo-tag
+  - jekyll-algolia
+  - jekyll-sitemap
+  - jekyll-gist
+  - gemoji
+
+lunr_search:
+  excludes: [rss.xml, atom.xml]
+
+#SEO
+sitemap:
+    file: "/sitemap.xml"
+    exclude:
+        - "/atom.xml"
+        - "/feed.xml"
+        - "/feed/index.xml"
+    include_posts:
+        - "/index.html"
+    change_frequency_name: "weekly"
+    priority_name: "0.8"
+
+algolia:
+  application_id: 252TT70NBQ
+  index_name: yoneyan.dev
 
   # deployment
 host: 0.0.0.0
