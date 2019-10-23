@@ -10,7 +10,7 @@ date: 2018-08-12 01:40:01 +0900
 1位 C841M
 --------
 
-![](images/2018/08/C841M.png)
+![](../../../../images/2018/08/C841M.png)
 
 C841M-4X-JSEC
 
@@ -24,7 +24,7 @@ IPsec VPNやSSL VPN、EasyVPNに対応（DMVPNは上位機種のみに対応)
 
 価格帯:10000円～
 
-[![](https://images-fe.ssl-images-amazon.comimages/I/31IhOM-UynL._SL160_.jpg)](https://www.amazon.co.jp/exec/obidos/ASIN/B01BTXG8IO/yonedayuto-22/)
+[![](https://images-fe.ssl-images-amazon.com../../../../images/I/31IhOM-UynL._SL160_.jpg)](https://www.amazon.co.jp/exec/obidos/ASIN/B01BTXG8IO/yonedayuto-22/)
 
 [Cisco Startシリーズ C841M-4X-JSEC/K9/START ［ギガビット対応VPNルータ（保守2年付）］](https://www.amazon.co.jp/exec/obidos/ASIN/B01BTXG8IO/yonedayuto-22/)
 
@@ -43,7 +43,7 @@ Cisco C841Mという機種が一番おすすめです。理由は**安い**か�
 Cisco 892
 ---------
 
-![](images/2018/08/cisco-892.jpg)
+![](../../../../images/2018/08/cisco-892.jpg)
 
 Cisco 892(上)、Cisco892 W(下)
 
@@ -57,7 +57,7 @@ IPsec VPNやGET VPNやSSL VPNに対応
 
 価格:4000円～
 
-[![](https://images-fe.ssl-images-amazon.comimages/I/21YEm65ERZL._SL160_.jpg)](https://www.amazon.co.jp/exec/obidos/ASIN/B004HHIYIM/yonedayuto-22/)
+[![](https://images-fe.ssl-images-amazon.com../../../../images/I/21YEm65ERZL._SL160_.jpg)](https://www.amazon.co.jp/exec/obidos/ASIN/B004HHIYIM/yonedayuto-22/)
 
 [CISCO892J-K9](https://www.amazon.co.jp/exec/obidos/ASIN/B004HHIYIM/yonedayuto-22/)
 
@@ -71,7 +71,7 @@ Cisco Systems
 
 [Yahooショッピング![](//ad.jp.ap.valuecommerce.com/servlet/gifbanner?sid=3352890&pid=885313220)](//ck.jp.ap.valuecommerce.com/servlet/referral?sid=3352890&pid=885313220&vc_url=http%3A%2F%2Fsearch.shopping.yahoo.co.jp%2Fsearch%3Fp%3DCisco%2520892&vcptn=kaereba)
 
-[![](https://images-fe.ssl-images-amazon.comimages/I/11soexZJPTL._SL160_.jpg)](https://www.amazon.co.jp/exec/obidos/ASIN/B002WD34F6/yonedayuto-22/)
+[![](https://images-fe.ssl-images-amazon.com../../../../images/I/11soexZJPTL._SL160_.jpg)](https://www.amazon.co.jp/exec/obidos/ASIN/B002WD34F6/yonedayuto-22/)
 
 [CISCO 892W](https://www.amazon.co.jp/exec/obidos/ASIN/B002WD34F6/yonedayuto-22/)
 
@@ -104,7 +104,7 @@ IPsec VPNなど
 
 オプションでシリアルでの通信も可能
 
-[![](https://images-fe.ssl-images-amazon.comimages/I/21TG9P18MBL._SL160_.jpg)](https://www.amazon.co.jp/exec/obidos/ASIN/B0000CBJ7H/yonedayuto-22/)
+[![](https://images-fe.ssl-images-amazon.com../../../../images/I/21TG9P18MBL._SL160_.jpg)](https://www.amazon.co.jp/exec/obidos/ASIN/B0000CBJ7H/yonedayuto-22/)
 
 [CISCO1712-VPN/K9](https://www.amazon.co.jp/exec/obidos/ASIN/B0000CBJ7H/yonedayuto-22/)
 
