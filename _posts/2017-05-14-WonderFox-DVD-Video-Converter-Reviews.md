@@ -1,11 +1,9 @@
 ---
+layout: post
 title: WonderFox DVD Video Converterのレビュー
 tags:
-url: 493.html
-id: 493
-categories:
-  - レビュー
-date: 2017-05-14 14:22:19
+categories: review
+date: 2017-05-14 14:22:19 +0900
 ---
 
 DVDリッピングソフトとして、WonderFox Soft社が作っているWonderFox DVD Video Converterの紹介をさせていただきます。
@@ -13,7 +11,7 @@ DVDリッピングソフトとして、WonderFox Soft社が作っているWonder
 WonderFox DVD Video Converterの概要
 --------------------------------
 
-![](/images/review/WonderFox/1.png) ジャンル:マルチメディアツール 対応OS:windows2000以降 有料ソフト（試用版あり） 公式サイト：[http://www.videoconverterfactory.com/dvd-video-converter/index-jp.html](http://www.videoconverterfactory.com/dvd-video-converter/index-jp.html)
+![](../../../../images/review/WonderFox/1.png) ジャンル:マルチメディアツール 対応OS:windows2000以降 有料ソフト（試用版あり） 公式サイト：[http://www.videoconverterfactory.com/dvd-video-converter/index-jp.html](http://www.videoconverterfactory.com/dvd-video-converter/index-jp.html)
 
 WonderFox DVD Video Converterの特徴
 --------------------------------
@@ -30,11 +28,11 @@ WonderFox DVD Video Converterの特徴
 
 ### 動画変換
 
-![](/images/review/WonderFox/2.png) このソフトは動画変換をする際に様々なフォーマットに変換することができます。 各デバイス用に変換したい動画データはファイルフォーマットを選ぶ必要がないのでパソコンが苦手な方や初心者の方でも簡単に使えるソフトになっています。
+![](../../../../images/review/WonderFox/2.png) このソフトは動画変換をする際に様々なフォーマットに変換することができます。 各デバイス用に変換したい動画データはファイルフォーマットを選ぶ必要がないのでパソコンが苦手な方や初心者の方でも簡単に使えるソフトになっています。
 
 ### メディアプレーヤー
 
-メディアプレーヤーの機能もあります。 ![](/images/review/WonderFox/3.png) 音声ファイルや映像ファイルもちゃんと再生してくれます。 この機能は案外便利で、変換した動画や音楽を簡単にプレビューできるのにちょうどいいと感じました。
+メディアプレーヤーの機能もあります。 ![](../../../../images/review/WonderFox/3.png) 音声ファイルや映像ファイルもちゃんと再生してくれます。 この機能は案外便利で、変換した動画や音楽を簡単にプレビューできるのにちょうどいいと感じました。
 
 まとめ
 ===

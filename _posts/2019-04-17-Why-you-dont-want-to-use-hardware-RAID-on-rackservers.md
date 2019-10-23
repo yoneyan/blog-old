@@ -1,11 +1,9 @@
 ---
+layout: post
 title: ラック型サーバーでハードウェアRAIDを使いたくない理由
 tags:
-url: 1073.html
-id: 1073
-categories:
-  - 雑談
-date: 2019-04-17 23:35:47
+categories: free_talk
+date: 2019-04-17 23:35:47 +0900
 ---
 
 この記事ではラック型サーバーでハードウェアRAIDを使いたくない理由をここで話したいと思います。

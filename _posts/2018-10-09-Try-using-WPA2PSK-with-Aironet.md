@@ -1,12 +1,9 @@
 ---
+layout: post
 title: Cisco AironetでWPA2-PSKを使ってみる
-tags:
-  - Cisco
-url: 1107.html
-id: 1107
-categories:
-  - 設定
-date: 2018-10-09 02:15:26
+tags: Cisco
+categories: setting
+date: 2018-10-09 02:15:26 +0900
 ---
 
 自宅の家にある無線LANを民生用の物から業務用の物に移行しているのですが、初めてCiscoのAironetの設定をすることになったので、その備忘録的なものをこの記事に残しておこうかなと思っています。 CiscoのAironetでも最近のx800SeriesではGUIで操作する方がわかりやすくなっています。しかし、それより以前のものになってくると、GUIよりもCLIの方が把握しやすいので今回の記事ではCLIでの紹介をしていきます。 注)Cisco Aironet x800SeriesのCLIではコマンド体系が刷新されているのでこの記事は参考にならないので、注意してください。

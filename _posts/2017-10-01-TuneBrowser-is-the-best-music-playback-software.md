@@ -1,15 +1,12 @@
 ---
+layout: post
 title: TuneBrowserが最高の音楽再生ソフトである件
 tags:
-url: 599.html
-id: 599
-categories:
-  - レビュー
-  - 感想
-date: 2017-10-01 09:00:41
+categories: review
+date: 2017-10-01 09:00:41 +0900
 ---
 
-音楽再生ソフトで最強のものがあったので紹介していきます。 ![](/images/review/tunebrowser/1.png) ソフト名:TuneBrowser ジャンル:音楽再生ソフト 対応フォーマット:DSD, FLAC, TTA, MP3, AAC, ALAC, Ogg Vorbis, WavPack, Wave, AIFF, APE, WMA 価格:1620円　（500曲まで無料で使用可能、それ以上、楽曲を登録する際は有料版にする必要あり 公式ページ:[http://tiki-s.cocolog-nifty.com/blog/tunebrowser.html](http://tiki-s.cocolog-nifty.com/blog/tunebrowser.html) ライセンス体系について:[http://tiki-s.cocolog-nifty.com/blog/tbedition.html](http://tiki-s.cocolog-nifty.com/blog/tbedition.html)
+音楽再生ソフトで最強のものがあったので紹介していきます。 ![](../../../../images/review/tunebrowser/1.png) ソフト名:TuneBrowser ジャンル:音楽再生ソフト 対応フォーマット:DSD, FLAC, TTA, MP3, AAC, ALAC, Ogg Vorbis, WavPack, Wave, AIFF, APE, WMA 価格:1620円　（500曲まで無料で使用可能、それ以上、楽曲を登録する際は有料版にする必要あり 公式ページ:[http://tiki-s.cocolog-nifty.com/blog/tunebrowser.html](http://tiki-s.cocolog-nifty.com/blog/tunebrowser.html) ライセンス体系について:[http://tiki-s.cocolog-nifty.com/blog/tbedition.html](http://tiki-s.cocolog-nifty.com/blog/tbedition.html)
 
 メリットとデメリット
 ----------

@@ -1,13 +1,9 @@
 ---
+layout: post
 title: CentOSでリンクアグリゲーションの設定をしてみる
-tags:
-  - CentOS
-url: 1231.html
-id: 1231
-categories:
-  - CentOS
-  - network
-date: 2018-11-19 01:29:33
+tags: CentOS
+categories: server network
+date: 2018-11-19 01:29:33 +0900
 ---
 
 今回はCentOSでIEEE 802.3ad規格のリンクアグリゲーションを構築してみます。 IEEE 802.3adとは国際で定められたリンクアグリゲーションの規格のことを指します。 この記事ではここからLAGと表記していきます。 この記事ではCentOSにリンクアグリゲーションの設定を最初からやっていきます。
@@ -36,7 +32,7 @@ sudo nmtui
 
 恐らく、管理者権限ではないと設定出来ない可能性が高いです。
 
-![](/images/app/server/nmtui/mainmenu.png)
+![](../../../../images/app/server/nmtui/mainmenu.png)
 
 こんな感じのネットワークの設定画面が表示されます。
 
@@ -44,13 +40,13 @@ sudo nmtui
 
 Edit a connectionを選択してから、Addを選択すると、下のようなものが出てきます。
 
-![](/images/app/server/nmtui/add.png)
+![](../../../../images/app/server/nmtui/add.png)
 
 LAGを使う場合はBondを選択します。
 
 ### 3.bondの設定をしていく
 
-![](/images/app/server/nmtui/bond.png)
+![](../../../../images/app/server/nmtui/bond.png)
 
 AddでEthernetを選択し、Device名を手打ちでします。 それから、Modeで802.3adを選択すると、リンクアグリゲーションを使うことが出来るようになります。 IPv4を固定にしたい場合は、Manualですることができます。 最後にOKを選択し、ダイアログを閉じます。 これでLAGを使用することが可能になります。
 

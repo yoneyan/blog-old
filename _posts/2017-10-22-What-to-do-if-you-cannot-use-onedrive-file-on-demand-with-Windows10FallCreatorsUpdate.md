@@ -1,16 +1,12 @@
 ---
+layout: post
 title: Windows10 Fall Creators Updateでonedriveのファイルオンデマンドが使えない場合の対処法
 tags:
-url: 627.html
-id: 627
-categories:
-  - OS
-  - windows10
-  - 対策方法
-date: 2017-10-22 04:25:45
+categories: OS
+date: 2017-10-22 04:25:45 +0900
 ---
 
-つい最近、年に二回のwindows10鬼の大型アップデートの時期が来てしまいました。 普通はwindows updateを待つべき何ですが、いきなりアップデートされては困るのでいつも手動でアップデートさせている筆者です。年一回で十分のように思ってしまうのは自分だけなのかなｗ 今回は、アップデートしたのはいいんですが、今回のアップデートの醍醐味のひとつであるonedriveのファイルオンデマンドが使えないので、その対処法についてこの記事ではご紹介していきます。 ![](/images/technology/win10_fallcreatorsupdate/1.png) Windows 10 Fall Creators Updateにアップデートさせたのになんでないねんｗって普通なるよねー
+つい最近、年に二回のwindows10鬼の大型アップデートの時期が来てしまいました。 普通はwindows updateを待つべき何ですが、いきなりアップデートされては困るのでいつも手動でアップデートさせている筆者です。年一回で十分のように思ってしまうのは自分だけなのかなｗ 今回は、アップデートしたのはいいんですが、今回のアップデートの醍醐味のひとつであるonedriveのファイルオンデマンドが使えないので、その対処法についてこの記事ではご紹介していきます。 ![](../../../../images/technology/win10_fallcreatorsupdate/1.png) Windows 10 Fall Creators Updateにアップデートさせたのになんでないねんｗって普通なるよねー
 
 そもそも、なぜこうなってしまうのか？
 ==================
@@ -30,7 +26,7 @@ onedriveのバージョンが古いというのが一番の影響になります
 
 ### 3．onedriveの設定をする
 
-![](/images/technology/win10_fallcreatorsupdate/2.png)このowndriveロゴを右クリックで開き、設定を選択します。 ![](/images/technology/win10_fallcreatorsupdate/3.png) 設定画面が出てきたら、ファイルのオンデマンドというのが出てきているので、ここのチェックボックスにチェックを入れることで有効になります。
+![](../../../../images/technology/win10_fallcreatorsupdate/2.png)このowndriveロゴを右クリックで開き、設定を選択します。 ![](../../../../images/technology/win10_fallcreatorsupdate/3.png) 設定画面が出てきたら、ファイルのオンデマンドというのが出てきているので、ここのチェックボックスにチェックを入れることで有効になります。
 
 もし、ここでファイルのオンデマンドという項目が出てきていない場合は、何回か手順1を繰り返すとできる可能性があります。
 

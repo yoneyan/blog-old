@@ -1,11 +1,9 @@
 ---
+layout: post
 title: x230で本当のデュアルブートをしてみる
-url: 1673.html
-id: 1673
-categories:
-  - ネタ
-date: 2019-06-16 17:07:07
-tags:
+categories: neta
+date: 2019-06-16 17:07:07 +0900
+tags: thinkpad
 ---
 
 神機種と呼ばれている x230というThinkpadを愛用しています。
@@ -14,25 +12,25 @@ tags:
 
 まず、キーボードを交換した時にすべてのネジが行方不明になり出先でもキーボードの外れる問題
 
-![](/images/myself/broken_x230/keyboard.jpg)
+![](../../../../images/myself/broken_x230/keyboard.jpg)
 
 どこでも外れるキーボード
 
 そして、画面の縁の一部が外れる問題
 
-![](/images/myself/broken_x230/edge.jpg)
+![](../../../../images/myself/broken_x230/edge.jpg)
 
 画面の縁が外れる
 
 画面のすべてのインジケーター部分の故障（これのせいで、充電してるのかしてないのかがまったくわからない）
 
-![](/images/myself/broken_x230/indicator.jpg)
+![](../../../../images/myself/broken_x230/indicator.jpg)
 
 インジケーターの故障
 
 最後に、盛大に落としたときに割れた部分を同じように落とした結果...
 
-![](/images/myself/broken_x230/storage.jpg)
+![](../../../../images/myself/broken_x230/storage.jpg)
 
 割れた部分の被害
 
@@ -56,7 +54,7 @@ tags:
 
 そこで、ふと
 
-![](/images/myself/broken_x230/storage.jpg)
+![](../../../../images/myself/broken_x230/storage.jpg)
 
 思い出しました。
 

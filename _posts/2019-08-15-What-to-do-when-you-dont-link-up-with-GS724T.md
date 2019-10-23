@@ -1,12 +1,9 @@
 ---
+layout: post
 title: GS724Tでリンクアップしない時の対処法
 tags:
-url: 1779.html
-id: 1779
-categories:
-  - network
-  - 設定
-date: 2019-08-15 00:48:35
+categories: network
+date: 2019-08-15 00:48:35 +0900
 ---
 
 GS724TにLANケーブルを刺しても機嫌がいいときはアップしてくれますが、悪いときは本当にリンクアップしてくれない時が多く、まじめにイライラしてきたのでいろいろ探っているとおそらく原因がわかったのでこちらに対処法を載せます。
@@ -32,7 +29,7 @@ LANケーブルをつないでもリンクアップしないという前代未�
 
 そうすると....
 
-![](/images/technology/gs724t_flowcontrollproblem/1.png)
+![](../../../../images/technology/gs724t_flowcontrollproblem/1.png)
 
 Flow Control Setting
 
@@ -52,7 +49,7 @@ Flow Control Setting
 
 #### ２．Switchingタブに移動
 
-![](/images/technology/gs724t_flowcontrollproblem/2.png)
+![](../../../../images/technology/gs724t_flowcontrollproblem/2.png)
 
 Switchingのタブに移動（ここではSystemタブになっている）
 
@@ -60,7 +57,7 @@ Switchingのタブに移動させます。
 
 #### ３．Flow Controlを選択
 
-![](/images/technology/gs724t_flowcontrollproblem/3.png)
+![](../../../../images/technology/gs724t_flowcontrollproblem/3.png)
 
 Flow Controlを選択
 
@@ -68,7 +65,7 @@ Flow Controlを選択します。
 
 #### ４．無効化する
 
-![](/images/technology/gs724t_flowcontrollproblem/4.png)
+![](../../../../images/technology/gs724t_flowcontrollproblem/4.png)
 
 Flow Controlの設定
 

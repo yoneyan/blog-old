@@ -1,11 +1,9 @@
 ---
+layout: post
 title: キャリアから格安スマホ(IIJmio)に乗り換え（準備編）
-tags:
-url: 181.html
-id: 181
-categories:
-  - おすすめ
-date: 2017-02-11 03:17:06
+tags: IIJmio
+categories: recommend
+date: 2017-02-11 03:17:06 +0900
 ---
 
 あなたはどこの携帯電話会社で契約していますか？

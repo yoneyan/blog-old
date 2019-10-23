@@ -1,12 +1,9 @@
 ---
+layout: post
 title: mineoが最強だと思う理由
-tags:
-  - MVMO
-url: 1630.html
-id: 1630
-categories:
-  - おすすめ
-date: 2019-06-18 00:15:58
+tags: MVMO
+categories: recommend
+date: 2019-06-18 00:15:58 +0900
 ---
 
 mineoは株式会社オプテージが運営しているMVMOのサービスです。
@@ -32,7 +29,7 @@ Mineoには他のところにはないようなパケットシェア機能とい
 
 自分以外の 契約者の過剰分のパケットをもらうとありますが、実はこれがメルカリに売っているんです。(^_-)
 
-![](/images/myself/mineo/image.png)
+![](../../../../images/myself/mineo/image.png)
 
 メルカリで「mineo　パケット」での検索結果
 

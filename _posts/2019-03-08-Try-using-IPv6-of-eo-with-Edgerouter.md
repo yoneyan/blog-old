@@ -1,12 +1,9 @@
 ---
+layout: post
 title: Edgerouterでeo光のIPv6を使ってみる
-tags:
-  - edgerouter
-url: 1440.html
-id: 1440
-categories:
-  - network
-date: 2019-03-08 00:07:05
+tags: edgerouter
+categories: network
+date: 2019-03-08 00:07:05 +0900
 ---
 
 \[itemlink post_id="1486"\]

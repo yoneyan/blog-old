@@ -1,15 +1,9 @@
 ---
+layout: post
 title: CentOSでL2TPサーバーを構築してみる
-tags:
-  - IPSec
-  - L2TP
-  - VPN
-  - VPS
-url: 1380.html
-id: 1380
-categories:
-  - 構築
-date: 2019-01-18 16:21:21
+tags: VPN VPS
+categories: build
+date: 2019-01-18 16:21:21 +0900
 ---
 
 UbuntuServerでL2TPサーバーを構築するという記事を出しましたが、CentOSでの構築方法をここで説明させていただきます。

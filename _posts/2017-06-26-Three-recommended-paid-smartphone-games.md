@@ -1,12 +1,9 @@
 ---
+layout: post
 title: 有料スマホゲームのおすすめ3選
-tags:
-url: 506.html
-id: 506
-categories:
-  - おすすめ
-  - レビュー
-date: 2017-06-26 02:07:53
+tags: game
+categories: recommend review
+date: 2017-06-26 02:07:53 +0900
 ---
 
 スマートフォンゲームで課金ゲームが乱立する中でみなさんに個人的に思うandroid,iosの両方が対応する有料ゲームを紹介させていただきます。
@@ -16,7 +13,7 @@ date: 2017-06-26 02:07:53
 Minecraft: Pocket Edition
 -------------------------
 
-![](/images/game/soft/android/minecraft.png)
+![](../../../../images/game/soft/android/minecraft.png)
 
 ###### android
 
@@ -49,9 +46,9 @@ MinecraftPE版は元々はレッドストーン回路やネザーゲートが実
 Another　World
 -------------
 
-![](/images/game/soft/android/another-world-1.png)
+![](../../../../images/game/soft/android/another-world-1.png)
 
-![](/images/game/soft/android/another-world-2.png)
+![](../../../../images/game/soft/android/another-world-2.png)
 
 ##### android
 
@@ -80,7 +77,7 @@ Another　World
 MONUMENT VALLEY
 ---------------
 
-![](/images/game/soft/android/monument-valley.png)
+![](../../../../images/game/soft/android/monument-valley.png)
 
 ##### android
 

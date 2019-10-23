@@ -1,13 +1,10 @@
 ---
+layout: post
 title: pfsenseでPS4やPS3のNATタイプ3になる際の対処法
-tags:
-  - NATタイプ3
-  - ps4
-url: 737.html
-id: 737
+tags: NATタイプ3 ps4
 categories:
-  - 設定
-date: 2018-01-18 12:01:34
+  - setting
+date: 2018-01-18 12:01:34 +0900
 ---
 
 最近自作ルーターを構築して、WebGUIで管理できるpfsenseというOSインストールして使っている筆者です。

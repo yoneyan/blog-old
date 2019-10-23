@@ -1,14 +1,9 @@
 ---
+layout: post
 title: CentOSのOpenVPNサーバーを構築してみる
-tags:
-  - openvpn
-url: 1083.html
-id: 1083
-categories:
-  - CentOS
-  - network
-  - 構築
-date: 2018-09-07 20:00:06
+tags: openvpn CentOS
+categories: network build
+date: 2018-09-07 20:00:06 +0900
 ---
 
 OpenVPNを使ってVPSと自宅のpfsenseにつないでみました。

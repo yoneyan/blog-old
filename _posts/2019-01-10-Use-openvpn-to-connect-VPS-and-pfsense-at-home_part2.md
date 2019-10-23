@@ -1,12 +1,9 @@
 ---
+layout: post
 title: openvpnを使ってVPSと自宅のpfsenseにつないでみる（その2）
-tags:
-  - openvpn
-url: 1090.html
-id: 1090
-categories:
-  - 構築
-date: 2019-01-10 11:49:55
+tags: openvpn
+categories: build
+date: 2019-01-10 11:49:55 +0900
 ---
 
 openvpnを使ってVPSと自宅のpfsenseにつないでみる（その1）の続きです。
@@ -33,13 +30,13 @@ openvpn（サーバー側）のポート:1194/udp
 
 #### 1.1.System/Certificate Managerに移動
 
-![](/images/os/pfsense/openvpn/1.png)
+![](../../../../images/os/pfsense/openvpn/1.png)
 
 #### 1.2.CAを追加する
 
 Addをクリックする
 
-![](/images/os/pfsense/openvpn/2.png)
+![](../../../../images/os/pfsense/openvpn/2.png)
 
 **Descriptive name** に わかりやすい名前をつけます。例えば、\[サーバー名_CA\]のような感じです。
 
@@ -51,7 +48,7 @@ Addをクリックする
 
 Certificate ManagerにあるCertificateに移動します。
 
-![](/images/os/pfsense/openvpn/3.png)
+![](../../../../images/os/pfsense/openvpn/3.png)
 
 **Descriptive name** に適当な名前をつけます。
 
@@ -61,29 +58,29 @@ Certificate ManagerにあるCertificateに移動します。
 
 ### 2.pfsenseでopenvpnの設定を開く
 
-![](/images/os/pfsense/openvpn/4.png)
+![](../../../../images/os/pfsense/openvpn/4.png)
 
 VPN->OpenVPNを開きます。
 
 ### 2.1.openvpnでclientを追加する
 
-![](/images/os/pfsense/openvpn/client-status.png)
+![](../../../../images/os/pfsense/openvpn/client-status.png)
 
 AddでClientを追加します。
 
 ### 2.2.設定をしていく
 
-![](/images/os/pfsense/openvpn/client-general.png)
+![](../../../../images/os/pfsense/openvpn/client-general.png)
 
 Server host or address:10.0.0.9　<-サーバーIP
 
 Description:     <-openvpnのClient名の設定（わかりやすい名前で良い）
 
-![](/images/os/pfsense/openvpn/client-client.png)
+![](../../../../images/os/pfsense/openvpn/client-client.png)
 
 今回は証明書認証のみとなるので、ここには何も入力しないように注意して下さい。
 
-![](/images/os/pfsense/openvpn/client-cryptographic.png)
+![](../../../../images/os/pfsense/openvpn/client-cryptographic.png)
 
 automatically generate a TLS Key.のチェックボックスを外します。
 
@@ -99,7 +96,7 @@ automatically generate a TLS Key.のチェックボックスを外します。
 
 **NCP Algorithms** にも同じようにサーバー側で設定したAES-256-CBCを選択します。
 
-![](/images/os/pfsense/openvpn/5.png)
+![](../../../../images/os/pfsense/openvpn/5.png)
 
 **IPv4 Remote network(s)** には空欄でも問題ないです。（もし、IPアドレスが取得できない場合は、サーバー側で設定した割当をされているIPアドレスを入力して下さい。）
 

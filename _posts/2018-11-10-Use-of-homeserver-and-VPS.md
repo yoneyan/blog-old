@@ -1,13 +1,9 @@
 ---
+layout: post
 title: 自宅サーバーとVPSの使い分け
-tags:
-  - VPS
-  - homeserver
-url: 1186.html
-id: 1186
-categories:
-  - 雑談
-date: 2018-11-10 02:41:27
+tags: VPS homeserver
+categories: free_talk
+date: 2018-11-10 02:41:27 +0900
 ---
 
 今回は自分なりの自宅サーバーとVPSの使い分けの仕方を紹介します。 そもそもの話になってはしまうのですが、自宅サーバーとVPSの簡単な説明をさせていただきます。
@@ -17,7 +13,7 @@ date: 2018-11-10 02:41:27
 
 ### 自宅サーバーとは？
 
-自宅サーバーとはそのままの意味で、自宅で運用するサーバーのことを言います。 ![](/images/review/tunebrowser/tower.jpg) ![](/images/review/tunebrowser/rack.jpg) こんな感じのものです。
+自宅サーバーとはそのままの意味で、自宅で運用するサーバーのことを言います。 ![](../../../../images/review/tunebrowser/tower.jpg) ![](../../../../images/review/tunebrowser/rack.jpg) こんな感じのものです。
 
 ### VPSとは？
 

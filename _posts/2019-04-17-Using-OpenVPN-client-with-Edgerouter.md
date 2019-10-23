@@ -1,14 +1,9 @@
 ---
+layout: post
 title: EdgerouterでOpenVPNクライアントを使う
-tags:
-  - edgerouter
-  - openvpn
-url: 1580.html
-id: 1580
-categories:
-  - network
-  - 設定
-date: 2019-04-17 21:37:37
+tags: edgerouter openvpn
+categories: network setting
+date: 2019-04-17 21:37:37 +0900
 ---
 
 EdgerouterでOpenVPNクライアントとして使う方法をこちらに記事にさせていただきます。

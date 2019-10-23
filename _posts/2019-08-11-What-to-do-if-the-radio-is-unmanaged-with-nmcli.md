@@ -1,12 +1,9 @@
 ---
+layout: post
 title: nmcliで無線がunmanagedの場合の対処法
-tags:
-url: 1770.html
-id: 1770
-categories:
-  - CentOS
-  - network
-date: 2019-08-11 23:29:40
+tags: CentOS7
+categories: Server Network
+date: 2019-08-11 23:29:40 +0900
 ---
 
 nmcliで無線LANの設定がなかなかできなかったので、ここでは簡単に対処法を書きます。

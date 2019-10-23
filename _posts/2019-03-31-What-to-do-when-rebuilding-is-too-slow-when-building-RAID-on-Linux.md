@@ -1,13 +1,9 @@
 ---
+layout: post
 title: LinuxでRAID構築する際にリビルドが遅すぎる時の対処法
-tags:
-url: 1564.html
-id: 1564
-categories:
-  - Linux
-  - server
-  - 備忘録
-date: 2019-03-31 15:17:42
+tags: CentOS7
+categories: server memo
+date: 2019-03-31 15:17:42 +0900
 ---
 
 CentOSで1TBのHDDをRAID1に構築する際にかなり時間が掛かりそうだったので、対処法の紹介です。

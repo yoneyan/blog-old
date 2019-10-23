@@ -1,15 +1,9 @@
 ---
+layout: post
 title: CentOS7でLACPとタグVLANを使ってみる
-tags:
-  - CentOS
-url: 1569.html
-id: 1569
-categories:
-  - CentOS
-  - network
-  - 備忘録
-  - 設定
-date: 2019-03-31 20:02:44
+tags: CentOS
+categories: network Server build setting
+date: 2019-03-31 20:02:44 +0900
 ---
 
 当方の環境で使っているCentOS7でLACPとタグVLANを使う必要が出てきたのでその際に方法をここに備忘録として書きます。

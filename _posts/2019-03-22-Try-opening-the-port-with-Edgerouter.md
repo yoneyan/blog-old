@@ -1,13 +1,9 @@
 ---
+layout: post
 title: Edgerouterでポート開放をしてみる
-tags:
-  - edgerouter
-url: 1548.html
-id: 1548
-categories:
-  - network
-  - 備忘録
-date: 2019-03-22 18:05:10
+tags: edgerouter
+categories: network memo
+date: 2019-03-22 18:05:10 +0900
 ---
 
 今回はEdgerouterでポート開放をコマンド操作でしていきます。

@@ -1,11 +1,9 @@
 ---
+layout: post
 title: 美少女ゲームをやる人はXbox360を買うべき！！
-tags:
-url: 833.html
-id: 833
-categories:
-  - おすすめ
-date: 2018-03-09 22:09:46
+categories: recommend
+tag: xbox360
+date: 2018-03-09 22:09:46 +0900
 ---
 
 美少女ゲームをするのにXbox360がおすすめの理由をこの記事では紹介させていただきます。

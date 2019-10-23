@@ -1,13 +1,9 @@
 ---
+layout: post
 title: asteriskでUnable to retrieve PJSIP transport 'simpletrans'というエラーが出る
-tags:
-  - asterisk
-url: 1159.html
-id: 1159
-categories:
-  - 備忘録
-  - 設定
-date: 2018-11-04 03:18:33
+tags: asterisk
+categories: memo setting
+date: 2018-11-04 03:18:33 +0900
 ---
 
 Unable to retrieve PJSIP transport 'simpletrans'というエラーについて
