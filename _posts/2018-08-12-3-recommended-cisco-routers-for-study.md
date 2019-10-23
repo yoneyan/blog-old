@@ -2,8 +2,7 @@
 layout: post
 title: 勉強でおすすめのCiscoルータ3選
 tags: Cisco
-categories:
-  - おすすめ
+categories: recommend
 date: 2018-08-12 01:40:01 +0900
 ---
 

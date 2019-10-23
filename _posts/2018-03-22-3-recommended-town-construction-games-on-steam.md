@@ -2,8 +2,7 @@
 layout: post
 title: Steamでおすすめの町建設ゲーム3選
 tags: steam
-categories:
-  - おすすめ
+categories: recommend
 date: 2018-03-22 17:22:35 +0900
 ---
 

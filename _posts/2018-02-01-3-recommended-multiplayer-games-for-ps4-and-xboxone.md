@@ -4,8 +4,7 @@ title: PS4やXboxONEおすすめのマルチプレイゲーム3選
 tags:
   - ps4
   - xboxone
-categories:
-  - おすすめ
+categories: recommend
 date: 2018-02-01 14:40:49 +0900
 ---
 

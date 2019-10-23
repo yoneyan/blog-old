@@ -2,8 +2,7 @@
 layout: post
 title: おすすめウルトラモバイルPC3選。買うしかない...
 tags:
-categories:
-  - おすすめ
+categories: recommend
 date: 2018-08-01 23:30:30 +0900
 ---
 

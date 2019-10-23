@@ -2,8 +2,7 @@
 layout: post
 title: wordpressに入れておくべき日本製テーマ3選
 tags: wordpress
-categories:
-  - おすすめ
+categories: recommend
 date: 2017-02-08 23:34:47 +0900
 ---
 
