@@ -63,7 +63,7 @@ plugins:
   - jekyll-feed
 #  - jekyll-paginate
   - jekyll-seo-tag
-  - jekyll-algolia
+  - jekyll-lunr-js-search
   - jekyll-sitemap
   - jekyll-gist
   - gemoji
@@ -83,10 +83,6 @@ sitemap:
     change_frequency_name: "weekly"
     priority_name: "0.8"
 
-algolia:
-  application_id: 252TT70NBQ
-  index_name: yoneyan.dev
-
-  # deployment
+    # deployment
 host: 0.0.0.0
 port: 4000

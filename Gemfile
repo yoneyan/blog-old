@@ -35,7 +35,7 @@ gem "wdm", "~> 0.1.1", :install_if => Gem.win_platform?
 
 group :jekyll_plugins do
   gem "jekyll-sitemap"
-  gem "jekyll-algolia"
+  gem "jekyll-lunr-js-search"
   gem 'jekyll-gist'
   gem "gemoji"
 #  gem "jekyll-assets"
