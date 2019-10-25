@@ -9,9 +9,9 @@ date: 2019-09-13 00:49:00 +0900
 サーバーの紹介
 -------
 
-ネットワーク機器は多すぎるので[別記事](https://yoneyannet.com/2019年度8月自宅ネットワーク機器の紹介/)にしています。
+ネットワーク機器は多すぎるので[別記事](https://yoneyan.dev/2019/09/13/Introduction-of-home-network-equipment/)にしています。
 
-また、サーバーやネットワークに属さない機器は[こちら](https://yoneyannet.com/2019年度8月自宅その他機器の紹介/)で紹介しています。
+また、サーバーやネットワークに属さない機器は[こちら](https://yoneyan.dev/2019/09/13/Introduction-of-home-and-other-equipment/)で紹介しています。
 
 ![](../../../../images/server/home/2019/09/homeserver.jpeg)
 

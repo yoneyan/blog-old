@@ -6,9 +6,9 @@ categories: homeserver
 date: 2019-09-13 02:17:49 +0900
 ---
 
-サーバー機器は[こちら](https://yoneyannet.com/2019%E5%B9%B4%E5%BA%A68%E6%9C%88%E8%87%AA%E5%AE%85%E3%82%B5%E3%83%BC%E3%83%90%E3%83%BC%E3%81%AE%E7%B4%B9%E4%BB%8B/)で紹介しています。
+サーバー機器は[こちら](https://yoneyan.dev/2019/09/13/home-server-introduction/)で紹介しています。
 
-ネットワーク機器は多すぎるので[別記事](https://yoneyannet.com/2019%E5%B9%B4%E5%BA%A68%E6%9C%88%E8%87%AA%E5%AE%85%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%E3%81%AE%E7%B4%B9%E4%BB%8B/)にしています。
+ネットワーク機器は多すぎるので[別記事](https://yoneyan.dev/2019/09/13/Introduction-of-home-network-equipment/)にしています。
 
 ### IP電話
 

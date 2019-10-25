@@ -6,9 +6,9 @@ categories: homeserver network
 date: 2019-09-13 01:44:15 +0900
 ---
 
-サーバー機器は[こちら](https://yoneyannet.com/2019年度8月自宅サーバーの紹介/)で紹介しています。
+サーバー機器は[こちら](https://yoneyan.dev/2019/09/13/home-server-introduction/)で紹介しています。
 
-また、その他機器は[こちら](https://yoneyannet.com/2019年度8月自宅その他機器の紹介/)で紹介しています。
+また、その他機器は[こちら](https://yoneyan.dev/2019/09/13/Introduction-of-home-and-other-equipment/)で紹介しています。
 
 余力があれば、自宅のネットワーク構成も記事にする予定です。
 
