@@ -42,7 +42,7 @@ NetworkManagerのデバイスを一覧で出してみます。
     eth0      ethernet  disconnected　--
     wlp2s0    wifi      disconnected　--
 
-wlp2s0がunmanagedになっている場合は、[https://yoneyannet.com/nmcli%e3%81%a7%e7%84%a1%e7%b7%9a%e3%81%8cunmanaged%e3%81%ae%e5%a0%b4%e5%90%88%e3%81%ae%e5%af%be%e5%87%a6%e6%b3%95/](https://yoneyannet.com/nmcli%e3%81%a7%e7%84%a1%e7%b7%9a%e3%81%8cunmanaged%e3%81%ae%e5%a0%b4%e5%90%88%e3%81%ae%e5%af%be%e5%87%a6%e6%b3%95/) こちらに対処法を記事にしたのでご覧ください。
+wlp2s0がunmanagedになっている場合は、[nmcliで無線がunmanagedの場合の対処法](https://yoneyan.dev/2019/08/11/What-to-do-if-the-radio-is-unmanaged-with-nmcli/) こちらに対処法を記事にしたのでご覧ください。
 
 #### 1.2．WLANのSSIDを設定する
 

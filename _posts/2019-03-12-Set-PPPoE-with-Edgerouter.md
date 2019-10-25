@@ -6,7 +6,9 @@ categories: network
 date: 2019-03-12 00:06:47 +0900
 ---
 
-\[itemlink post_id="1486"\]
+![](https://ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B010MZFH5A&Format=_SL160_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=yonedayuto-22&language=ja_JP)  
+**Ubiquiti Networks Edgerouter ER-X（日本国内）**  
+[Amazon](https://amzn.to/2Jm8Fug)  
 
 みんな大好きEdgerouterでPPPoEの設定をしていきます。
 

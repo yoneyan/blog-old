@@ -67,6 +67,8 @@ plugins:
   - jekyll-sitemap
   - jekyll-gist
   - gemoji
+  - jekyll-twitter-plugin
+  - jekyll-youtube
 
 lunr_search:
   excludes: [rss.xml, atom.xml]

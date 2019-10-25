@@ -81,6 +81,7 @@ tags: thinkpad
 実際の状態
 -----
 
+{% twitter https://twitter.com/yoneyan_ja/status/1135093410673545216 %}
 https://twitter.com/yoneyan_ja/status/1135093410673545216
 
 デュアルブート

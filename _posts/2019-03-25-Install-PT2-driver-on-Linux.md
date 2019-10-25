@@ -1,4 +1,5 @@
 ---
+layout: post
 title: LinuxでPT2ドライバをインストールする
 tags: linux tv
 categories: build

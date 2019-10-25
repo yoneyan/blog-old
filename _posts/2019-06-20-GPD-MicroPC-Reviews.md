@@ -39,45 +39,17 @@ GPD MicroPC（裏）
 スペック
 ----
 
-CPU
-
-Intel Celeron N4100
-
-GPU
-
-intel UHD graphics 600 ( CPU内臓）
-
-Memory
-
-8GB(DDR4)
-
-Storage
-
-128GB (換装可能)
-
-Display
-
-1280*720 (光沢) **タッチパネル非対応**
-
-Keyboard
-
-US配列（バックライト付き）
-
-Interface
-
-MicroSD,USB3.0 x3,RS-232C,HDMI,LAN,Type-C,イヤホンジャック
-
-Power
-
-Type-C（12V 2.0A）
-
-Battery
-
-3100mAh x2
-
-重さ：440g
-
-付属品：ACアダプター（QC対応）、Type-C to Type-Cケーブル
+CPU: Intel Celeron N4100  
+GPU: intel UHD graphics 600 ( CPU内臓）  
+Memory: 8GB(DDR4)  
+Storage: 128GB (換装可能）  
+Display: 1280*720 (光沢) **タッチパネル非対応**  
+Keyboard: US配列（バックライト付き）  
+Interface: MicroSD,USB3.0 x3,RS-232C,HDMI,LAN,Type-C,イヤホンジャック  
+Power: Type-C（12V 2.0A）  
+Battery: 3100mAh x2  
+weight: 440g  
+accessories: ACアダプター（QC対応）、Type-C to Type-C cable  
 
 OSは最初からWindows10 Proが搭載されています。
 
@@ -106,7 +78,10 @@ GPD MicroPC(中身)
 
 そもそも、このキーボードでガチな文章入力する人はいないと思うので
 
-\[itemlink post_id="1709"\]
+![](https://ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B01DVH7C0O&Format=_SL160_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=yonedayuto-22&language=ja_JP)  
+**PFU Happy Hacking Keyboard Professional BT 英語配列/墨 PD-KB600B**  
+[Amazon](https://amzn.to/2Nc2tpJ)
+
 
 このようなちゃんとしたキーボードを使った方がいいです。
 
@@ -138,7 +113,7 @@ GPD MicroPC(中身)
 
 ### 3DMark
 
-![](../../../../images/review/gpdmicro/gpd-micropc-3DMark-1024x768.jpg)
+![](../../../../images/review/gpdmicro/3dmark.jpg)
 
 3D Markの結果
 
