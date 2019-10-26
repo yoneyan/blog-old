@@ -81,7 +81,9 @@ tags: thinkpad
 実際の状態
 -----
 
-{% twitter https://twitter.com/yoneyan_ja/status/1135093410673545216 %}
+{::nomarkdown}
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">これが本当のデュアルブートです <a href="https://t.co/M18sngdCGS">pic.twitter.com/M18sngdCGS</a></p>&mdash; yoneyan (@yoneyan_ja) <a href="https://twitter.com/yoneyan_ja/status/1135093410673545216?ref_src=twsrc%5Etfw">June 2, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+{:/nomarkdown}
 https://twitter.com/yoneyan_ja/status/1135093410673545216
 
 デュアルブート
