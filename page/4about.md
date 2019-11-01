@@ -31,6 +31,9 @@ type: page
 * [Twitter](https://twitter.com/yoneyan_ja)
 * [Facebook](https://www.facebook.com/yoneyan.ja)
 
-## Comments
+## Contact Us
+誤字・脱字や依頼などはこちらのフォームからお問い合わせのほど、宜しくお願いします。
 
-{% include comments.html %}
+{::nomarkdown}
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScfESDR0yfXnTh8k2pxgYrJFVVo0aG-MN3Ok2V9nLjQ-WxwgA/viewform?embedded=true" width="640" height="945" frameborder="0" marginheight="0" marginwidth="0">読み込んでいます…</iframe>
+{::/nomarkdown}
