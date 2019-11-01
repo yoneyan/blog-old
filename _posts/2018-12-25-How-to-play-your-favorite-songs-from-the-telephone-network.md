@@ -44,7 +44,7 @@ date: 2018-12-25 05:28:23 +0900
 ---
 
 {::nomarkdown}
-<div><iframe width="853" height="480" src="https://www.youtube.com/embed/kCDEU5l9SMo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kCDEU5l9SMo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 {:/nomarkdown}
 
 材料
