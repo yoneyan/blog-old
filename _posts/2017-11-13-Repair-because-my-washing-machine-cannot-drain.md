@@ -16,7 +16,11 @@ date: 2017-11-13 02:59:19 +0900
 修理代
 ---
 
-針金代100円のみ（ホームセンターで買いました） \[amazonjs asin="B00JJHHFPS" locale="JP" title="ステンレス線 約0.9mmx約5m SUS304 55270"\] こんな感じのものでも十分使えます。
+針金代100円のみ（ホームセンターで買いました） 
+{:nomarkdown}
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=yonedayuto-22&language=ja_JP&o=9&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B00JJHHFPS&linkId=1e8f67f863d36409a197dab20aa81792"></iframe>
+{:/nomarkdown}
+こんな感じのものでも十分使えます。
 
 修理していく
 ------

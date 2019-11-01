@@ -146,4 +146,10 @@ PS4 Proを買う層
 まとめ
 ===
 
-どっちでもいいやと思っている方は、PS4Slimを最初に買うのをおすすめです。 ちょっと、物足りないなと思い始めたらProに乗り換えるのが得策なのではないのかなと思います。 どっちでもいいやではなく、最高のゲーム環境構築したいという方にはPS4Proを購入することをお勧めします。 フレームレートはSlimより、Proの方がかなり安定します。なので、ゲームを安定してやりたい方もProっていう感じです。 と自分が思ったまとめてみました。参考にしていただければ幸いです。 \[amazonjs asin="B0742J781D" locale="JP" title="PlayStation 4 ジェット・ブラック 500GB (CUH-2100AB01)"\] \[amazonjs asin="B075ZYQDRB" locale="JP" title="PlayStation 4 Pro ジェット・ブラック 1TB (CUH-7100BB01)"\]
+どっちでもいいやと思っている方は、PS4Slimを最初に買うのをおすすめです。 ちょっと、物足りないなと思い始めたらProに乗り換えるのが得策なのではないのかなと思います。 どっちでもいいやではなく、最高のゲーム環境構築したいという方にはPS4Proを購入することをお勧めします。 フレームレートはSlimより、Proの方がかなり安定します。なので、ゲームを安定してやりたい方もProっていう感じです。 と自分が思ったまとめてみました。参考にしていただければ幸いです。
+{:nomarkdown}
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=yonedayuto-22&language=ja_JP&o=9&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B07F76K6FJ&linkId=ec1c3b1ea0afaaa38c6b0811fb6edd3b"></iframe>
+{:/nomarkdown}
+{:nomarkdown}
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=yonedayuto-22&language=ja_JP&o=9&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B07HHZTD8C&linkId=45a2c2b07b768229ecb8b5f4abb4c74d"></iframe>
+{:/nomarkdown}

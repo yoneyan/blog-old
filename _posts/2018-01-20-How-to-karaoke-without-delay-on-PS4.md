@@ -50,13 +50,18 @@ PS4につなげるときに必要になるものです。
 
 マイクの音とカラオケ音源を混ぜる必要があるため、ミキサーが必要になります。
 
-\[amazonjs asin="B000J5UEGQ" locale="JP" title="BEHRINGER ミキサー XENYX 502"\]
+{:nomarkdown}
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=yonedayuto-22&language=ja_JP&o=9&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B000J5UEGQ&linkId=4028189bc4e39c8a6c67f4f827743904"></iframe>
+{:/nomarkdown}
 
 大体、こういう汎用性のあるものは認識してくれるので家に転がってるものがあればそれでも使えることは多いです。オーディオインタフェースは基本無理です。
 
 ミキサーに接続するときに業務用の6.3mmジャックというものになるので
 
-\[amazonjs asin="B071P9VVKL" locale="JP" title="オーディオ変換ケーブル 赤.白RCA/ピンジャック(メス)×2 - 6.3mm モノラル標準プラグ(オス)×2 10cm VM-RMC-10cm"\] \[amazonjs asin="B01D82XXGO" locale="JP" title="UGREEN ステレオミニプラグ（メス）⇒ステレオ標準プラグ（オス） 変換アダプタ 金メッキ 3.5mm ⇒ 6.35mm アンプヘッドホン変換"\]
+{:nomarkdown}
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=yonedayuto-22&language=ja_JP&o=9&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B071P9VVKL&linkId=f843bedb0a874449830ef7f346cbf097"></iframe>
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=yonedayuto-22&language=ja_JP&o=9&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B00ZKM3SHK&linkId=228e2a6cf5ce459e77f2788249027c53"></iframe>
+{:/nomarkdown}
 
 スピーカー（必要な場合）
 
@@ -64,7 +69,9 @@ PS4につなげるときに必要になるものです。
 
 イヤホンでカラオケする場合は必要ではないです。
 
-\[itemlink post_id="1513"\]
+{:nomarkdown}
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=yonedayuto-22&language=ja_JP&o=9&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B077XF3XJK&linkId=d0be9cf8f47edb48514613cb10ea9e6b"></iframe>
+{:/nomarkdown}
 
 ### 有線マイクを使う方法（採点はできません）
 
@@ -72,7 +79,8 @@ PS4につなげるときに必要になるものです。
 
 有線マイクが必要になります。
 
-\[itemlink post_id="1520"\]
+{:nomarkdown}
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=yonedayuto-22&language=ja_JP&o=9&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B000R8KFUU&linkId=52e39714f7d50b92ce259a763edef753"></iframe>{:/nomarkdown}
 
 #### 接続方法
 
@@ -88,11 +96,13 @@ PS4側につなげる必要があるので、オーディオアダプタをつ�
 
 大体、こういう汎用性のあるものは認識してくれるので家に転がってるものがあればそれでも使えることは多いです。オーディオインタフェースは基本無理です。
 
-\[amazonjs asin="B00C3DF3KE" locale="JP" title="SODIAL(R)7.1チャンネルUSB外部サウンドカードオーディオアダプタ"\]
+{:nomarkdown}
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=yonedayuto-22&language=ja_JP&o=9&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B00C3DF3KE&linkId=5d2bfa71cb15812b5d12cda96a0d8209"></iframe>{:/nomarkdown}
 
 ワイヤレスマイク
 
-\[itemlink post_id="1529"\]
+{:nomarkdown}
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=yonedayuto-22&language=ja_JP&o=9&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B07FD7DFSX&linkId=90e9a66052ba59f88656957509fb68ad"></iframe>{:/nomarkdown}
 
 ワイヤレスマイクは各マイクの音を出力できて二つのマイクを同時に出力出来るものであれば問題ありません。
 
@@ -106,7 +116,9 @@ PS4側につなげる必要があるので、オーディオアダプタをつ�
 
 1.1．MICにワイヤレスマイク側のOUTA+Bを接続します。
 
-\[amazonjs asin="B012EVRBVS" locale="JP" title="6.3mm モノラル標準プラグケーブル 1m (オスーオス ストレートプラグ) オーディオケーブル 1m VM-4038"\]
+{:nomarkdown}
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=yonedayuto-22&language=ja_JP&o=9&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B012EVRBVS&linkId=8b1a3a8bb5abe7b66619aadea4abda30"></iframe>
+{:/nomarkdown}
 
 こんな感じのケーブルで繋ぎます。
 
@@ -114,11 +126,18 @@ PS4側につなげる必要があるので、オーディオアダプタをつ�
 
 このようなケーブルを使うと問題ないです。
 
-\[itemlink post_id="1532"\]
+{:nomarkdown}
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=yonedayuto-22&language=ja_JP&o=9&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B01JY2BN64&linkId=feac8e243e1f3c26603d70c5b5f6eac7"></iframe>
+{:/nomarkdown}
 
 2．LINE IN 2/3にPS4の音声を入力します。テレビのイヤホンジャックからミキサーにつなげます。
 
-\[amazonjs asin="B071771NVQ" locale="JP" title="3.5mm ステレオミニジャック(メス) - 6.3mm モノラル標準プラグ(オス)×2 オーディオ変換ケーブル 10cm VM-MSA-10cm"\] \[amazonjs asin="B075KBFJQD" locale="JP" title="オーディオケーブル Kinps AUX接続用 高音質再生 ステレオミニプラグ 金メッキ端子 織編ナイロン3.5mmオーディオインタフェース対応 十二ヶ月保証 10Ft/3m"\]
+{:nomarkdown}
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=yonedayuto-22&language=ja_JP&o=9&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B071771NVQ&linkId=e1d2f67737e89264bcafe19f322afdf7"></iframe>
+{:/nomarkdown}
+{:nomarkdown}
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=yonedayuto-22&language=ja_JP&o=9&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B075KBFJQD&linkId=5deb8b65863ea39326c1a7ac3359adc1"></iframe>
+{:/nomarkdown}
 
 3．MAIN OUTからスピーカーに接続します。
 

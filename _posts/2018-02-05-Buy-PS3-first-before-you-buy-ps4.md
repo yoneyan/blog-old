@@ -18,11 +18,25 @@ date: 2018-02-05 13:24:35 +0900
 
 ### PS3を手に入れる方法
 
-メルカリやamazonの中古で売っています。 \[amazonjs asin="B00MGDX5CO" locale="JP" title="PlayStation3 チャコール・ブラック 500GB (CECH4300C)"\] \[amazonjs asin="B00EXKNAFA" locale="JP" title="PlayStation 3 チャコール・ブラック 250GB (CECH-4200B)"\] \[amazonjs asin="B003UTTNEW" locale="JP" title="PlayStation 3 (160GB) チャコール・ブラック (CECH-2500A) 【メーカー生産終了】"\] なるべくCECH-2500A以上の機種を購入した方がいいです。 初期シリーズのCECH*00はPS2との互換が取れていますが、半田クラックの問題がありYLOD問題がよく起こるので買うのは控えた方がいいです。どうしてもPS2をやりたい方は本体を買った方がいいでしょう。実機からBIOSの抜き取れる方はPCでPCSX2のエミュレータを使うのもありのように思います。 \[amazonjs asin="B000YGKH5I" locale="JP" title="PlayStation 2 セラミック・ホワイト (SCPH-90000CW) 【メーカー生産終了】"\]
+メルカリやamazonの中古で売っています。
+{:nomarkdown}
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=yonedayuto-22&language=ja_JP&o=9&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B00MGDX5CO&linkId=3d78105c34f36285a39a6ebe2ad40b93"></iframe>
+{:/nomarkdown} 
+なるべくCECH-2500A以上の機種を購入した方がいいです。 初期シリーズのCECH*00はPS2との互換が取れていますが、半田クラックの問題がありYLOD問題がよく起こるので買うのは控えた方がいいです。どうしてもPS2をやりたい方は本体を買った方がいいでしょう。実機からBIOSの抜き取れる方はPCでPCSX2のエミュレータを使うのもありのように思います。
+{:nomarkdown}
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=yonedayuto-22&language=ja_JP&o=9&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B0006B0ZZI&linkId=72096d130d63667228fa07d522bcdc7b"></iframe>
+{:/nomarkdown}
+
 
 ### ゲームソフトの例
 
-\[amazonjs asin="B00A64CFIK" locale="JP" title="初音ミク -Project DIVA- F - PS3"\] \[amazonjs asin="B00PAATQYQ" locale="JP" title="The Last of Us(ラスト・オブ・アス) PlayStation3 the Best - PS3"\] 全体的にPS3版はかなり安いです。
+{:nomarkdown}
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=yonedayuto-22&language=ja_JP&o=9&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B00A64CFIK&linkId=0efef6656614638f37e499d9be998ba7"></iframe>
+{:/nomarkdown}
+{:nomarkdown}
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=yonedayuto-22&language=ja_JP&o=9&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B00PAATQYQ&linkId=c36e22a1331244da3a24d7f9ccbb8346"></iframe>
+{:/nomarkdown}
+全体的にPS3版はかなり安いです。
 
 長所と短所
 -----

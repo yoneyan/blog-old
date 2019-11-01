@@ -131,18 +131,24 @@ DTMをやりたいという方はカラオケと作曲のようにいろんな�
 
 自分の持ってるやつ
 
-\[amazonjs asin="B00QY4RLRQ" locale="JP" title="Steinberg スタインバーグ USB2.0 24bit/192kHz オーディオインターフェース UR12"\]
+{:nomarkdown}
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=yonedayuto-22&language=ja_JP&o=9&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B00QY4RLRQ&linkId=74e99be287cee32650f39afc18c63a20"></iframe>
+{:/nomarkdown}
 
 大人数で歌いたい方は  
 
-\[amazonjs asin="B017MVUAHM" locale="JP" title="Steinberg スタインバーグ 2x2 USB2.0 24bit/192kHz オーディオインターフェース UR22mkII"\]
+{:nomarkdown}
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=yonedayuto-22&language=ja_JP&o=9&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B017MVUAHM&linkId=42930c30019995e0c2aad44e9b4a4626"></iframe>{:/nomarkdown}
 
 オーディオインターフェースにつなげるマイク
 
-\[amazonjs asin="B000R8KFUU" locale="JP" title="CUSTOMTRY カスタムトライ ダイナミックマイク CM-2000 (マイクケーブル付き)"\]
+{:nomarkdown}
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=yonedayuto-22&language=ja_JP&o=9&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B000R8KFUU&linkId=f8c86cbc3986b0d755b499c4d70cf929"></iframe>{:/nomarkdown}
 
 USBマイクはこれがおすすめ！  
-\[amazonjs asin="B005M2HDA6" locale="JP" title="ソニー SONY コンデンサーマイク モノラル/PCボーカル用 USB接続対応 マイクスタンド付属 ECM-PCV80U"\]
+{:nomarkdown}
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=yonedayuto-22&language=ja_JP&o=9&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B005M2HDA6&linkId=255869779bd7a7ece998cc9ef32886bb"></iframe>
+{:/nomarkdown}
 
 まとめ
 ===

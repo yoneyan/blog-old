@@ -16,7 +16,10 @@ xbox one コントローラを購入したのでこちらの開封と簡単な�
 買った商品
 -----
 
-自分が買ったxbox one コントローラはこれです。 \[amazonjs asin="B00O3ZM970" locale="JP" title="マイクロソフト ゲームコントローラー ワイヤレス/有線接続/XboxOne/Windows対応 ブラック 7MN-00005"\] 実はこれを買ったのは記事執筆時からそんなに経っていませんが値上がりしていました。   たぶん新コントローラが出たのが影響していると思いますが、買う方は安くなるのを待つか下の新コントローラを買うのがいいでしょう。 \[amazonjs asin="B01N9SLIGZ" locale="JP" title="マイクロソフト ゲームコントローラー Bluetooth/有線接続/xbox one/Windows対応 PC用USBケーブル同梱 4N6-00003"\]
+自分が買ったxbox one コントローラはこれです。
+{:nomarkdown}
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=yonedayuto-22&language=ja_JP&o=9&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B01N9SLIGZ&linkId=879a448187fd73615f66ea07d973e394"></iframe>
+{:/nomarkdown}
 
 新コントローラと旧コントローラの比較
 ------------------

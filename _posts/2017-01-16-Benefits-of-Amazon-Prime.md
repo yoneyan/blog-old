@@ -180,8 +180,9 @@ Unlimitedストレージサービスは終了しました。
 
 10.「Kindle」「Kindle Paperwhite」 4000円引き
 --------------------------------------
-
-\[amazonjs asin="B0186FESEE" locale="JP" title="Kindle (Newモデル) Wi-Fi、ブラック、キャンペーン情報つきモデル、電子書籍リーダー"\] \[amazonjs asin="B01J90PKEM" locale="JP" title="Fire 7 タブレット (Newモデル) 8GB、ブラック"\]
+{:nomarkdown}
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=yonedayuto-22&language=ja_JP&o=9&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B07JQP28TN&linkId=ebfbf9b0c618594198e685458c81329b"></iframe>
+{:/nomarkdown}
 
 この二つがクーポン適用で4000円引きになります。
 

@@ -89,4 +89,4 @@ Cisco Systems（シスコシステムズ）
 
 また、設定していくとネットワーク絡みの知識も少しずつですが増えていくので勉強として使うのもありです。
 
-Ciscoルータの紹介を記事にしているので[こちら](https://yoneyannet.com/%E5%8B%89%E5%BC%B7%E3%81%A7%E3%81%8A%E3%81%99%E3%81%99%E3%82%81%E3%81%AEcisco%E3%83%AB%E3%83%BC%E3%82%BF3%E9%81%B8/)から～
+Ciscoルータの紹介を記事にしているので[こちら](https://yoneyan.dev/2018/08/11/3-recommended-cisco-routers-for-study/)から～

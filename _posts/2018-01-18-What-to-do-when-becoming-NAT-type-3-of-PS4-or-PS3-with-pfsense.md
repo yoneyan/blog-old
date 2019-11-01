@@ -55,17 +55,17 @@ pfsenseの設定していく
 
 #### Outbound NAT Modeの設定
 
-![](http://yoneyannet.com/wp-content/uploads/2018/01/1.png)
+![](../../../../images/myself/ps4_nat/1.png)
 
 Hybrid Outbound NAT を選択して、Saveしてください。
 
 #### Mappingsの設定
 
-![](http://yoneyannet.com/wp-content/uploads/2018/01/2.png)
+![](../../../../images/myself/ps4_nat/2.png)
 
 Addをクリックする
 
-![](http://yoneyannet.com/wp-content/uploads/2018/01/3.png)
+![](../../../../images/myself/ps4_nat/3.png)
 
 上の通りに設定する。
 
@@ -73,7 +73,7 @@ Sourceは自分のIPアドレスを設定
 
 入力が終わると、Saveして保存する
 
-![](http://yoneyannet.com/wp-content/uploads/2018/01/4.png)
+![](../../../../images/myself/ps4_nat/4.png)
 
 この通りになっているか確認してApply Settingする。
 
@@ -81,7 +81,7 @@ Sourceは自分のIPアドレスを設定
 
 #### UPnP & NAT-PMP　Settingの設定
 
-![](http://yoneyannet.com/wp-content/uploads/2018/01/5.png)
+![](../../../../images/myself/ps4_nat/5.png)
 
 このように設定します。
 
@@ -89,7 +89,7 @@ Sourceは自分のIPアドレスを設定
 
 #### UPnP Access Control Listsの設定
 
-![](http://yoneyannet.com/wp-content/uploads/2018/01/6.png)
+![](../../../../images/myself/ps4_nat/6.png)
 
 設定例としてはこんな感じになりますう。
 
@@ -101,7 +101,7 @@ allow 88-65535 192.168.0.190/24 88-65535
 
 ### 3.PS4でネットワークの診断を試してみる
 
-![](http://yoneyannet.com/wp-content/uploads/2018/01/7.jpg)
+![](../../../../images/myself/ps4_nat/7.jpg)
 
 NATタイプがタイプ2になっていたら成功です！！
 

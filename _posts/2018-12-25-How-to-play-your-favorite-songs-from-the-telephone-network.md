@@ -132,6 +132,8 @@ mpg123はasteriskでmp3を流すためのコーディック用のパッケージ
 
 Asteriskのことを詳しく載せている本があるので、興味がある方はこちらをどうぞ
 
-\[itemlink post_id="1488"\] \[itemlink post_id="1490"\]
+{::nomarkdown}
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=yonedayuto-22&language=ja_JP&o=9&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B00W35H6SY&linkId=ea6ce8761f023bd686a664d71cf17dab"></iframe>
+{:/nomarkdown}
 
 皆さんもやってみてはいかがでしょうか。

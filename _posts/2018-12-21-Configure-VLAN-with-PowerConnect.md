@@ -31,7 +31,17 @@ Accessポートの設定方法を紹介します。
 
 例として：1/g12ポートにVLAN100を割り当て、1/g13ポートのVLAN200と割り当てるとします。
 
-    config  vlan database vlan 100 vlan 200 exit  interface ethernet 1/g12 switchport access vlan 100 exit  interface ethernet 1/g13 switchport access vlan 200 exit
+    config
+    vlan database
+    vlan 100
+    vlan 200
+    exit
+    interface ethernet 1/g12
+    switchport access vlan 100
+    exit
+    interface ethernet 1/g13
+    switchport access vlan 200
+    exit
 
 上記のコードでaccessポートの設定ができます。
 
@@ -46,7 +56,16 @@ Trunkポートの設定編
 
 例として、1/g1をVLAN 5,10,20とします。
 
-    config  vlan database vlan 5 vlan 10 vlan 20 exit  interface ethernet 1/g1 switchport mode trunk switchport trunk allowed vlan add 5,10,20 exit
+    config
+    vlan database
+    vlan 5
+    vlan 10
+    vlan 20
+    exit
+    interface ethernet 1/g1
+    switchport mode trunk
+    switchport trunk allowed vlan add 5,10,20
+    exit
 
 このような感じで簡単に設定ができます。
 
