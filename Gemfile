@@ -38,6 +38,7 @@ group :jekyll_plugins do
   gem "jekyll-lunr-js-search"
   gem 'jekyll-gist'
   gem "gemoji"
+  gem "amp-jekyll"
 #  gem "jekyll-assets"
 #  gem "another-jekyll-plugin"
 end

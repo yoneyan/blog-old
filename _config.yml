@@ -56,8 +56,8 @@ tag_dir: tag/
 excerpt_separator: "\n\n\n\n"
 
 # paginate
-gems: [jekyll-paginate]
-paginate: 3
+#gems: [jekyll-paginate]
+#paginate: 3
 
 plugins:
   - jekyll-feed
@@ -67,6 +67,8 @@ plugins:
   - jekyll-sitemap
   - jekyll-gist
   - gemoji
+  - amp-jekyll
+
 
 lunr_search:
   excludes: [rss.xml, atom.xml]
@@ -83,6 +85,4 @@ sitemap:
     change_frequency_name: "weekly"
     priority_name: "0.8"
 
-    # deployment
-host: 0.0.0.0
-port: 4000
+
